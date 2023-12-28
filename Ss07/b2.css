@@ -1,0 +1,17 @@
+.fashion{
+    width: 300px;
+    border-radius: 15px 15px 0 0 ;
+}
+
+.font{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.h2{
+    padding: 0 25px;
+}
+
+.color{
+    color: rgb(171, 171, 171);
+    padding: 0 25px;
+}
